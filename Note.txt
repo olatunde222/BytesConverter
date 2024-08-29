@@ -1,0 +1,20 @@
+tHIS CODE FILE is for converting bytes into Strings and back.
+
+Its uses the 'ethers' library for the convertion [npm i ethers]
+
+How to do?
+* Open terminal or git bash
+* cd to desktop or any folder of choice
+* mkdir transform - or any file name of your choice
+* cd transform 
+* touch parseBytes.js createBytes.js
+* npm init -y
+* ls
+* npm i ethers
+* code .
+
+How to run?
+
+* Run on terminal - node fileName argument 
+* e.g (node createBytes.js coffe-machine) -> covert bytesToString
+* or (node parseBytes.js juice-machine) -> convert StringsTobytes
